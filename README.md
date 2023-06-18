@@ -1,10 +1,12 @@
+
+## 📊 Statistics
+[![Frederik's github stats](https://github-readme-stats.vercel.app/api?username=frdrk00&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!---
+frdrk00/frdrk00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m @frdrk00
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-frdrk00/frdrk00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
