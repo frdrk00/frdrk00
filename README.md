@@ -1,6 +1,6 @@
 [![Header](https://github.com/frdrk00/frdrk00/blob/main/hello-my-name-is-frederik-low-resolution-logo-color-on-transparent-background.png?raw=true "Header")](https://github.com/frdrk00)
 
-**`<Fullstack/Frontend Developer/>`**
+**<h2 align="left">`<Fullstack/Frontend Developer/>`</h2>**
 
 Specializing in React + Next, Typescript & Javascript, 
 With experience in Redux, Firebase, Supabase, PostgreSQL, MongoDB, Stripe, RevenueCat, Tailwind CSS, HTML/CSS,...
