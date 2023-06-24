@@ -1,6 +1,6 @@
 [![Header](https://github.com/frdrk00/frdrk00/blob/main/hello-my-name-is-frederik-low-resolution-logo-color-on-transparent-background.png?raw=true "Header")](https://github.com/frdrk00)
 
-**<h2 align="left">`<Fullstack/Frontend Developer/>`</h2>**
+**<h2 align="left">`< Fullstack Web Developer />`</h2>**
 
 Specializing in React + Next, Typescript & Javascript, 
 With experience in Redux, Firebase, Supabase, PostgreSQL, MongoDB, Stripe, RevenueCat, Tailwind CSS, HTML/CSS,...
@@ -9,20 +9,31 @@ Collaborative team communication platforms like Slack, ClickUp & many more.
 
 #
 
+* 🌍  I'm based in Slovakia
+* 🖥️  See my portfolio at [Frederik](http://portfolio-frdrk00.vercel.app/)
+* ✉️  You can contact me at [frederik.rbnsk@gmail.com](mailto:frederik.rbnsk@gmail.com)
+* 🚀  I'm currently working on [Check my repositories](http://github.com/frdrk00?tab=repositories/)
+* 🧠  I'm learning Advanced React Native
+* 🤝  I'm open to collaborating on Full Stack Web Developement
+
+#
+
 ### 🧰 Languages and Tools
 <img align="left" alt="React" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Nextjs" width="30" style="padding-right:10px;" 
-     src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/nextjs/nextjs-line.svg" />
+     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" />
 <img align="left" alt="JavaScript" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30" style="padding-right:10px;" 
      src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Tailwind CSS" width="30" style="padding-right:10px;"      
-     src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" />
+<img align="left" alt="Material UI" width="30" style="padding-right:10px;"      
+     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" />
 <img align="left" alt="NodeJS" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Firebase" width="30" style="padding-right:10px;" 
      src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/firebase/firebase-plain-wordmark.svg" />
 <img align="left" alt="Express" width="30" style="padding-right:10px;"
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" />
 <img align="left" alt="MongoDB" width="30" style="padding-right:10px;" 
      src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="Redux" width="30" style="padding-right:10px;" 
@@ -32,13 +43,13 @@ Collaborative team communication platforms like Slack, ClickUp & many more.
 #
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/frederik-rybansky-485896262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/frederik-rybansky-485896262/" height="30" width="40" /></a>  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Frederik Rybanský" height="30" width="40" />
-</p>
-<br />
+<p align="left"> <a href="https://discord.com/users/523213617089216532" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/freddy.fisher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/frdrk00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/frederik-rbnsk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Freeeeeeddy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="frederik.rbnsk@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" width="40" height="28" /></a></p>
 
-## 📊 Statistics
-[![Frederik's github stats](https://github-readme-stats.vercel.app/api?username=frdrk00&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+#
+
+<h3 align="left">📊 Statistics</h3>
+
+<a href="http://www.github.com/frdrk00"><img src="https://github-readme-stats.vercel.app/api?username=frdrk00&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Frederik's GitHub stats" /></a>
 
 <details>
  <summary><h3>👨‍💻 Frederik's Journey</h3></summary>
