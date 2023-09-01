@@ -14,7 +14,7 @@ Collaborative team communication platforms like Slack, ClickUp & many more.
 * ✉️  You can contact me at [frederik.rbnsk@gmail.com](mailto:frederik.rbnsk@gmail.com)
 * 🚀  I'm currently working on [Check my repositories](http://github.com/frdrk00?tab=repositories/)
 * 🧠  I'm learning Advanced React Native
-* 🤝  I'm open to collaborating on Full Stack Web Developement
+* 🤝  I'm open to collaborating on Node.js and Express.js
 
 #
 
