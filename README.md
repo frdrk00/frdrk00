@@ -13,8 +13,8 @@ Collaborative team communication platforms like Slack, ClickUp & many more.
 * 🖥️  See my portfolio at [Frederik](http://portfolio-frdrk00.vercel.app/)
 * ✉️  You can contact me at [frederik.rbnsk@gmail.com](mailto:frederik.rbnsk@gmail.com)
 * 🚀  I'm currently working on [Check my repositories](http://github.com/frdrk00?tab=repositories/)
-* 🧠  I'm learning Advanced React Native
-* 🤝  I'm open to collaborating on Node.js and Express.js
+* 🧠  I'm learning Advanced Node.js and Express.js
+* 🤝  I'm open to collaborating on Frontend JavaScript Developer or Fullstack Web Developer 
 
 #
 
