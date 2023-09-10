@@ -2,10 +2,14 @@
 
 **<h2 align="left">`< Fullstack Web Developer />`</h2>**
 
-Specializing in React + Next, Typescript & Javascript, 
-With experience in Redux, Firebase, Supabase, PostgreSQL, MongoDB, Stripe, RevenueCat, Tailwind CSS, HTML/CSS,...
-Git/Github and various open-source frameworks such as 𝗡𝗼𝗱𝗲𝗝𝗦 or 𝗘𝘅𝗽𝗿𝗲𝘀𝘀𝗝𝗦,
-Collaborative team communication platforms like Slack, ClickUp & many more.
+Proficient in effective communication, adept at problem-solving, quick to grasp new principles and technologies, and committed to continuous progress. Additionally, passionate about the field of AI. <br /><br />
+
+🔵 React.js + Next.js + React Native <br />
+🔵 JavaScript + TypeScript <br />
+🔵 Node.js, Express.js <br />
+🔵 MongoDB, Firebase, AWS <br />
+
+Collaborative team communication platforms like Slack, ClickUp & many more. <br />
 
 #
 
@@ -42,8 +46,14 @@ Collaborative team communication platforms like Slack, ClickUp & many more.
 
 #
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://discord.com/users/523213617089216532" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/freddy.fisher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/frdrk00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/frederik-rbnsk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Freeeeeeddy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="frederik.rbnsk@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" width="40" height="28" /></a></p>
+### 📫 Connect with me
+<a href="https://www.linkedin.com/in/frederik-rbnsk" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" style="padding-right:10px;" /></a> 
+<a href="https://discord.com/users/523213617089216532" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="30" height="30" style="padding-right:10px;" /></a>
+<a href="https://www.facebook.com/freddy.fisher" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="30" height="30" style="padding-right:10px;" /></a> 
+<a href="https://www.github.com/frdrk00" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" /></a> 
+<a href="https://www.twitter.com/Freeeeeeddy" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="30" height="30" style="padding-right:10px;" /></a> 
+<a href="frederik.rbnsk@gmail.com" target="_blank" rel="noreferrer"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" width="40" height="28" style="padding-right:10px;" /></a>
+<br />
 
 #
 
@@ -53,7 +63,7 @@ Collaborative team communication platforms like Slack, ClickUp & many more.
 
 <details>
  <summary><h3>👨‍💻 Frederik's Journey</h3></summary>
-   I am a 27-year-old Slovakian who discovered a new passion in life. It is programming and learning new technologies.
+   I am a 28-year-old Slovakian who discovered a new passion in life. It is programming and learning new technologies.
 
    This flexible online job offers me the freedom and time to code, to which I am devoting most of my energy, as I see great importance in this skill.
 
