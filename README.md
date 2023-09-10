@@ -59,7 +59,12 @@ Collaborative team communication platforms like Slack, ClickUp & many more. <br 
 
 <h3 align="left">📊 Statistics</h3>
 
-<a href="http://www.github.com/frdrk00"><img src="https://github-readme-stats.vercel.app/api?username=frdrk00&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Frederik's GitHub stats" /></a>
+<a href="https://github.com/frdrk00?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=frdrk00&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=042940&hide_border=true&show_icons=true" />
+</a>
+<a href="https://github.com/frdrk00?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frdrk00&card_width=320&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=042940&hide_border=true&show_icons=true" />
+</a>
 
 <details>
  <summary><h3>👨‍💻 Frederik's Journey</h3></summary>
