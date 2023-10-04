@@ -7,7 +7,7 @@ Proficient in effective communication, adept at problem-solving, quick to grasp 
 🔵 React.js + Next.js + React Native <br />
 🔵 JavaScript + TypeScript <br />
 🔵 Node.js, Express.js <br />
-🔵 MongoDB, Firebase, AWS <br />
+🔵 MongoDB, Firebase, AWS, Supabase <br />
 
 Collaborative team communication platforms like Slack, ClickUp & many more. <br />
 
@@ -49,7 +49,7 @@ Collaborative team communication platforms like Slack, ClickUp & many more. <br 
 ### 📫 Connect with me
 <a href="https://www.linkedin.com/in/frederik-rbnsk" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" style="padding-right:10px;" /></a> 
 <a href="https://discord.com/users/523213617089216532" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="30" height="30" style="padding-right:10px;" /></a>
-<a href="https://www.facebook.com/freddy.fisher" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="30" height="30" style="padding-right:10px;" /></a> 
+<a href="https://www.facebook.com/frdrk00" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="30" height="30" style="padding-right:10px;" /></a> 
 <a href="https://www.github.com/frdrk00" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" /></a> 
 <a href="https://www.twitter.com/Freeeeeeddy" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="30" height="30" style="padding-right:10px;" /></a> 
 <a href="frederik.rbnsk@gmail.com" target="_blank" rel="noreferrer"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" width="40" height="28" style="padding-right:10px;" /></a>
