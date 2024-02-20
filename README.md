@@ -4,12 +4,14 @@
 
 Proficient in effective communication, adept at problem-solving, quick to grasp new principles and technologies, and committed to continuous progress. Additionally, passionate about the field of AI. <br /><br />
 
-🔵 React.js + Next.js + React Native <br />
-🔵 JavaScript + TypeScript <br />
-🔵 Node.js, Express.js <br />
-🔵 MongoDB, Firebase, AWS, Supabase <br />
+🔵  React, NextJS, React Native <br />
+🔵  TypeScript <br />
+🔵  MySQL, PostgreSQL <br />
+🔵  Node.js, Express.js, Mongoose, Prisma <br />
+🔵  AWS, Supabase, Firebase, MongoDB <br />
+🔵  Tailwind CSS, MaterialUI, Ant Design, shadcn/ui <br />
 
-Collaborative team communication platforms like Slack, ClickUp & many more. <br />
+Collaborative team communication platforms like Slack, Notion, Google Workspace & many more. <br />
 
 #
 
@@ -17,8 +19,8 @@ Collaborative team communication platforms like Slack, ClickUp & many more. <br 
 * 🖥️  See my portfolio at [Frederik](http://frederik.vercel.app/)
 * ✉️  You can contact me at [frederik.rbnsk@gmail.com](mailto:frederik.rbnsk@gmail.com)
 * 🚀  I'm currently working on [Check my repositories](http://github.com/frdrk00?tab=repositories/)
-* 🧠  I'm learning Advanced **Node.js** and **Express.js**
-* 🤝  I'm open to collaborating on Frontend JavaScript Developer or Fullstack Web Developer 
+* 🧠  I'm learning Advanced **Next.js**
+* 🤝  I'm open to collaborating on Fullstack Developer 
 
 #
 
@@ -73,14 +75,3 @@ Collaborative team communication platforms like Slack, ClickUp & many more. <br 
    This flexible online job offers me the freedom and time to code, to which I am devoting most of my energy, as I see great importance in this skill.
 
    I would love to meet new ambitious people in the coding field with whom we can move forward and create something significant together.
-
-
-<!---
-frdrk00/frdrk00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👋 Hi, I’m @frdrk00
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
