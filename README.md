@@ -1,66 +1,55 @@
 [![Header](https://github.com/frdrk00/frdrk00/blob/main/hello-my-name-is-frederik-low-resolution-logo-color-on-transparent-background.png?raw=true "Header")](https://github.com/frdrk00)
 
-**<h2 align="left">`< Fullstack Web Developer />`</h2>**
+## `< Fullstack Developer />`
 
-Proficient in effective communication, adept at problem-solving, quick to grasp new principles and technologies, and committed to continuous progress. Additionally, passionate about the field of AI. <br /><br />
+Passionate about building **scalable, efficient** web applications with clean code and modern technologies.  
+Curious learner, problem solver, and AI enthusiast. Always improving and embracing new challenges.
 
-🔵  React, NextJS, React Native <br />
-🔵  TypeScript <br />
-🔵  MySQL, PostgreSQL <br />
-🔵  Node.js, Express.js, Mongoose, Prisma <br />
-🔵  AWS, Supabase, Firebase, MongoDB <br />
-🔵  Tailwind CSS, MaterialUI, Ant Design, shadcn/ui <br />
+### 🔧 Tech Stack
+🚀 **Backend:** Node.js, Express, MySQL, PostgreSQL  
+🎨 **Frontend:** React, Next.js, Vue, Tailwind CSS, Ant Design, shadcn/ui  
+📦 **DevOps:** Docker, GitHub Actions, AWS, Kubernetes  
+📢 **Collaboration:** Slack, Notion, Google Workspace  
 
-Collaborative team communication platforms like Slack, Notion, Google Workspace & many more. <br />
+---
 
-#
+### 🌍 About Me
+- 📍 Based in **Slovakia**  
+- 🖥️ Explore my work → [Frederik's Website](http://rybansky.info/)  
+- ✉️ Contact me → [frederik.rbnsk@gmail.com](mailto:frederik.rbnsk@gmail.com)  
+- 🚀 Check out my **repositories** → [GitHub Repos](http://github.com/frdrk00?tab=repositories/)  
+- 🧠 Currently learning **self-hosted Homelab**  
+- 🤝 Open to collaboration on **Fullstack projects**  
 
-* 🌍  I'm based in Slovakia
-* 🖥️  See my portfolio at [Frederik](http://frederik.vercel.app/)
-* ✉️  You can contact me at [frederik.rbnsk@gmail.com](mailto:frederik.rbnsk@gmail.com)
-* 🚀  I'm currently working on [Check my repositories](http://github.com/frdrk00?tab=repositories/)
-* 🧠  I'm learning Advanced **Next.js**
-* 🤝  I'm open to collaborating on Fullstack Developer 
+---
 
-#
-
-### 🧰 Languages and Tools
-<img align="left" alt="React" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Nextjs" width="30" style="padding-right:10px;" 
-     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" />
+### 🛠 Languages & Tools  
 <img align="left" alt="JavaScript" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30" style="padding-right:10px;" 
-     src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Tailwind CSS" width="30" style="padding-right:10px;"      
-     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" />
-<img align="left" alt="Material UI" width="30" style="padding-right:10px;"      
-     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" />
+<img align="left" alt="TypeScript" width="30" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-original.svg" />
 <img align="left" alt="NodeJS" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Firebase" width="30" style="padding-right:10px;" 
-     src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/firebase/firebase-plain-wordmark.svg" />
-<img align="left" alt="Express" width="30" style="padding-right:10px;"
-     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" />
-<img align="left" alt="MongoDB" width="30" style="padding-right:10px;" 
-     src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="Redux" width="30" style="padding-right:10px;" 
-     src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/redux/redux-original.svg" />
-<br />
+<img align="left" alt="Express" width="30" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" />
+<img align="left" alt="React" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" width="30" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" />
+<img align="left" alt="Tailwind CSS" width="30" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" />
+<br /><br />
 
-#
+---
 
-### 📫 Connect with me
-<a href="https://www.linkedin.com/in/frederik-rbnsk" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" style="padding-right:10px;" /></a> 
-<a href="https://discord.com/users/523213617089216532" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="30" height="30" style="padding-right:10px;" /></a>
-<a href="https://www.facebook.com/frdrk00" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="30" height="30" style="padding-right:10px;" /></a> 
-<a href="https://www.github.com/frdrk00" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" /></a> 
-<a href="https://www.twitter.com/Freeeeeeddy" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="30" height="30" style="padding-right:10px;" /></a> 
-<a href="frederik.rbnsk@gmail.com" target="_blank" rel="noreferrer"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" width="40" height="28" style="padding-right:10px;" /></a>
-<br />
+### 📫 Connect With Me  
+<a href="https://www.linkedin.com/in/frederik-rbnsk" target="_blank" rel="noreferrer">
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" style="padding-right:10px;" />
+</a>
+<a href="https://www.github.com/frdrk00" target="_blank" rel="noreferrer">
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" />
+</a>
+<a href="mailto:frederik.rbnsk@gmail.com" target="_blank" rel="noreferrer">
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" width="40" height="28" style="padding-right:10px;" />
+</a>
+<br /><br />
 
-#
+---
 
-<h3 align="left">📊 Statistics</h3>
-
+## 📊 GitHub Statistics
 <a href="https://github.com/frdrk00?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=frdrk00&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=042940&hide_border=true&show_icons=true" />
 </a>
@@ -68,10 +57,13 @@ Collaborative team communication platforms like Slack, Notion, Google Workspace 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frdrk00&langs_count=4&card_width=320&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=042940&hide_border=true&show_icons=true" />
 </a>
 
+---
+
 <details>
  <summary><h3>👨‍💻 Frederik's Journey</h3></summary>
-   I am a 28-year-old Slovakian who discovered a new passion in life. It is programming and learning new technologies.
+   
+I’m a **29-year-old developer from Slovakia** who found a true passion in programming and tech.  
+Coding gives me the flexibility and creativity I love, and I dedicate my energy to learning and building.  
+I enjoy connecting with like-minded developers to collaborate and create something impactful.
 
-   This flexible online job offers me the freedom and time to code, to which I am devoting most of my energy, as I see great importance in this skill.
-
-   I would love to meet new ambitious people in the coding field with whom we can move forward and create something significant together.
+</details>
