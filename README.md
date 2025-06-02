@@ -64,7 +64,7 @@ Currently diving deeper into Redis caching strategies, Kubernetes, and self-host
 ## 📊 GitHub Statistics
 
 ![frdrk00's Stats](https://github-readme-stats.vercel.app/api?username=frdrk00&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
-![frdrk00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=frdrk00&theme=material-palenight&hide_border=true)
+![frdrk00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frdrk00&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
