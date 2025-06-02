@@ -1,45 +1,57 @@
 [![Header](https://github.com/frdrk00/frdrk00/blob/main/hello-my-name-is-frederik-low-resolution-logo-color-on-transparent-background.png?raw=true "Header")](https://github.com/frdrk00)
 
-## `< Fullstack Developer />`
-> *Building digital experiences, one line of code at a time*
+## `< Backend-Focused Fullstack Developer />`
+> *Engineering robust, scalable solutions with modern web technologies*
 
-I'm a passionate Fullstack Developer focused on creating scalable web applications with clean, efficient code.  
-Always curious, always learning, always improving.
+I'm a backend-oriented fullstack developer with a focus on Node.js, TypeScript, and system architecture. I specialize in building scalable web applications with clean, maintainable code and efficient database design.
+
+Currently diving deeper into Redis caching strategies, Kubernetes, and self-hosted infrastructure using Proxmox and k3s. I actively explore cloud-native patterns to improve application performance, reliability, and deployment workflows.
+
+---
 
 ## 🔧 Tech Stack
 
-🚀 **`Backend & DB:`** Node.js, Express, MySQL, PostgreSQL  
-📦 **`DevOps:`** Docker, Kubernetes, GitHub Actions, Terraform, ArgoCD  
+🚀 **`Backend & DB:`** Node.js, Express, TypeScript, PostgreSQL, MySQL, Redis, Prisma  
+📦 **`Infrastructure:`** Docker, Kubernetes, GitHub Actions, Terraform, ArgoCD, Traefik  
 🎨 **`Frontend:`** React, Next.js, Vue, Tailwind CSS, Ant Design, shadcn/ui  
-☁️ **`Cloud:`** AWS  
-📢 **`Collaboration:`** Slack, Notion, Google Workspace  
+☁️ **`Cloud & Self-hosting:`** AWS, Proxmox, Ubuntu Homelab, k3s  
+📢 **`Workflow & Tools:`** Zod, JWT, Auth0, ESLint, Prettier, Notion, Slack, ClickUp
+
+---
 
 ## 🌍 About Me
 
 - 📍 Based in **Slovakia**  
-- 🖥️ Explore my work → [Frederik's Website](http://rybansky.info/)  
-- ✉️ Contact me → [frederik.rbnsk@gmail.com](mailto:frederik.rbnsk@gmail.com)  
-- 🚀 Check out my **repositories** → [GitHub Repos](http://github.com/frdrk00?tab=repositories/)  
-- 🧠 Currently learning **self-hosted Homelab**  
-- 🤝 Open to collaboration on **Fullstack projects**  
+- 🧠 Learning: **Redis caching, DevOps automation, cluster orchestration**
+- 🖥️ Visit → [rybansky.info](http://rybansky.info/)
+- ✉️ Contact → [frederik@rybansky.info](mailto:frederik@rybansky.info)
+- 🤝 Open to collaboration on **backend-heavy or fullstack projects**
 
-## 🛠 Languages & Tools  
+---
+
+## 🛠 Languages & Tools
 
 <img align="left" alt="JavaScript" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-original.svg" />
+<img align="left" alt="TypeScript" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="NodeJS" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Express" width="30" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" />
+<img align="left" alt="Redis" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+<img align="left" alt="PostgreSQL" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="React" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Next.js" width="30" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" />
 <img align="left" alt="Tailwind CSS" width="30" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" />
+<img align="left" alt="Docker" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Kubernetes" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 <br /><br />
 
-## 📫 Connect With Me  
+---
+
+## 📫 Connect With Me
 
 <a href="https://www.linkedin.com/in/frederik-rbnsk" target="_blank" rel="noreferrer">
   <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" style="padding-right:10px;" />
 </a>
-<a href="mailto:frederik.rbnsk@gmail.com" target="_blank" rel="noreferrer">
+<a href="mailto:frederik@rybansky.info" target="_blank" rel="noreferrer">
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" width="40" height="28" style="padding-right:10px;" />
 </a>
 <a href="https://www.github.com/frdrk00" target="_blank" rel="noreferrer">
@@ -47,18 +59,20 @@ Always curious, always learning, always improving.
 </a>
 <br /><br />
 
+---
+
 ## 📊 GitHub Statistics
 
-<a href="https://github.com/frdrk00?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=frdrk00&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=042940&hide_border=true&show_icons=true" />
-</a>
-<a href="https://github.com/frdrk00?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frdrk00&langs_count=4&card_width=320&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=042940&hide_border=true&show_icons=true" />
-</a>
+![frdrk00's Stats](https://github-readme-stats.vercel.app/api?username=frdrk00&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+![frdrk00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=frdrk00&theme=material-palenight&hide_border=true)
+
+---
 
 <details>
-<summary><h3>More About Me</h3></summary>
+<summary><h3>👨‍💻 More About Me</h3></summary>
 
-I'm a 29-year-old developer from Slovakia who discovered a true passion in the world of programming and technology. The creative freedom and problem-solving aspects of coding captured my interest, and I've been dedicated to continuous learning and building ever since. I thrive on connecting with fellow developers who share my enthusiasm for creating impactful solutions.
+I'm a 29-year-old developer based in Slovakia with a passion for backend engineering, distributed systems, and self-hosted infrastructure. I enjoy solving complex problems and continuously improving my workflow through automation, observability, and DevOps best practices.
+
+Outside of work, I explore homelab projects using Proxmox, k3s, Traefik, and container orchestration. I believe in building practical, real-world applications that scale well and are easy to maintain. I value clear communication, autonomy, and sharing knowledge within the tech community.
 
 </details>
